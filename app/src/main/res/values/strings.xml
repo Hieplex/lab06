@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab06</string>
+    <string name="notifications">notification</string>
+    <string name="notifications_lable">text recieve</string>
+    <string name="close">Close</string>
+    <string name="firstValue">hi</string>
+
+</resources>
